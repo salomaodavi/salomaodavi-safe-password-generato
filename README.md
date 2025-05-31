@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="caminho-do-seu-banner.png" alt="Safe Password - Golang">
+</p>
+
 # 🔐 Safe Password Generator - GoLang 🚀
 
 Um gerador de senhas seguras, escrito em Golang, ideal para proteger suas contas e credenciais.
