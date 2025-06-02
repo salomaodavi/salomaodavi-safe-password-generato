@@ -28,7 +28,7 @@ go build
 ./safe-password
 
 💻 Exemplo de execução:
-
+```
 🔐 Gerador de Senhas Seguras - Safe Password
 --------------------------------------------
 Informe o tamanho da senha: 16
