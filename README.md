@@ -34,6 +34,7 @@ go build
 Informe o tamanho da senha: 16
 
 ✅ Sua senha segura gerada é: s#L9r@8B!qP2z&4W
+````
 
 🧠 Aprendizados
 ✔️ Manipulação de strings no Go
