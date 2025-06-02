@@ -16,7 +16,7 @@ Um gerador de senhas seguras, escrito em Golang, ideal para proteger suas contas
 
 1️⃣ Clone o repositório:
 
-git clone https://github.com/seu-usuario/safe-password.git
+git clone https://github.com/salomaodavi/salomaodavi-safe-password-generato
   
 2️⃣ Execute o programa:
 ````
