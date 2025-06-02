@@ -10,7 +10,7 @@ Um gerador de senhas seguras, escrito em Golang, ideal para proteger suas contas
   - Caracteres especiais
 - Escolha dos tipos de caracteres a incluir
 - Definição do tamanho da senha
-- Salva senhas geradas em um arquivo `passwords.txt` (opcional)
+- Salva senhas geradas em um arquivo `passwords.txt`.
 
 ## 🏃‍♂️ Como executar
 
