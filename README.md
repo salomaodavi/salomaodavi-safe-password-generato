@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Safe Password - Golang">
-</p>
-
 # 🔐 Safe Password Generator - GoLang 🚀
 
 Um gerador de senhas seguras, escrito em Golang, ideal para proteger suas contas e credenciais.
@@ -40,16 +36,17 @@ Informe o tamanho da senha: 16
 
 ✅ Sua senha segura gerada é: s#L9r@8B!qP2z&4W
 
-📸 Banner do Projeto
-<p align="center"> <img src="banner.png" alt="Safe Password Banner"> </p>
-
 🧠 Aprendizados
 ✔️ Manipulação de strings no Go
 ✔️ Uso de funções randômicas e pacotes nativos
 ✔️ Boas práticas na linguagem Go
 ✔️ Primeiros passos com projetos em Go para GitHub
 
-Este projeto está sob a licença MIT.
+📦 Estrutura de pastas:
+safe-password-generator/
+├── main.go
+├── passwords.txt  (opcional, salvo as senhas)
+├── README.md
 
 🔥 Código:
 
@@ -169,6 +166,8 @@ func saveToFile(password string) {
 		fmt.Println("❌ Erro ao escrever no arquivo:", err)
 	}
 }
+
+Este projeto está sob a licença MIT.
 
 
 
