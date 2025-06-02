@@ -43,13 +43,14 @@ Informe o tamanho da senha: 16
 ✔️ Primeiros passos com projetos em Go para GitHub
 
 📦 Estrutura de pastas:
+````
 safe-password-generator/
 ├── main.go
 ├── passwords.txt  (opcional, salvo as senhas)
 ├── README.md
-
+````
 🔥 Código:
-
+````
 package main
 
 import (
@@ -166,7 +167,7 @@ func saveToFile(password string) {
 		fmt.Println("❌ Erro ao escrever no arquivo:", err)
 	}
 }
-
+````
 Este projeto está sob a licença MIT.
 
 
